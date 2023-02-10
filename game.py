@@ -1,6 +1,7 @@
 """
 Game "Guess the number
 The computer guesses the number, and you guess
+
 """
 
 import numpy as np

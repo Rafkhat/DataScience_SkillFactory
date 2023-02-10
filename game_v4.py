@@ -7,6 +7,7 @@ import numpy as np
 def random_predict(number:int=1) -> int:
      
     # Пример создания документации
+    
     """Рандомно угадываем число
 
     Args:
